@@ -14,7 +14,7 @@ The project follows a Three-Tier Architecture:
 - __Database Tier (MySQL):__
   Stores student registration data.
 ## Architecture Diagram
-![welcm](./pictures/architect-dig.jpeg)
+![welcm](./pictures/arc.dig.jpeg)
 
  ## Technologies Used
   - Docker
